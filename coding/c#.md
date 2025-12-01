@@ -12,3 +12,7 @@ A programming language built by Microsoft
 - Create backends
 
 [Cat](c#.md)
+
+## What you should not create with it
+
+- Web sites, it will increase your costs
